@@ -11,6 +11,6 @@ RWKVの実装リポジトリ。コードの説明はここに書く。
     - 論文説明。
 
 アーキテクチャ外観は以下の通り
-https://github.com/odango314159/imp_RWKV/assets/130720358/02f49057-786b-4200-b92b-ffdd3a743112
+<img width="431" alt="スクリーンショット 2023-11-14 1 59 13" src="https://github.com/odango314159/imp_RWKV/assets/130720358/02f49057-786b-4200-b92b-ffdd3a743112">
 
 
